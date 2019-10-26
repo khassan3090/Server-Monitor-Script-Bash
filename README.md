@@ -1,4 +1,4 @@
-# Server-Monitor-Script-Bash-
+# Server-Monitor-Script-Bash
 
 **The idea is to have a bash script that lets you achieve the following:**
 

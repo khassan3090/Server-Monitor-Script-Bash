@@ -26,7 +26,7 @@ Servermonitor uses Bash only!
 
 Servermonitor requires a linux OS (Built on CentOS distro).
 ```
-$ git clone https://github.com/khassan3090/
+$ git clone https://github.com/khassan3090/Server-Monitor-Script-Bash
 $ cd servermonitor
 $ sh script.sh
 ```

@@ -62,7 +62,7 @@ do
             echo "Enter username... "
             read username
             ps -Ao user,uid,comm,pid,pcpu,tty --sort=-pcpu | grep $username | head -n 6
-            #ps -Ao user,uid,comm,pid,pcpu,tty -r | grep hammadsiddiqui | head -n 6 ## FOR macOS
+            #ps -Ao user,uid,comm,pid,pcpu,tty -r | grep hassankhan | head -n 6 ## FOR macOS
             ##For Linux
             break
             ;;
